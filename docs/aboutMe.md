@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Jordan Woller and I am a senior at the Universirty of Rhode Island. <br>I am currently studying computer science, and I am actively looking for a software engineering role. 
+Hello! My name is Jordan Woller and I am a senior at the University of Rhode Island. <br>I am currently studying computer science, and I am actively looking for a software engineering role. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jordan-Woller) 
 

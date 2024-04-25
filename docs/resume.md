@@ -24,24 +24,35 @@ Bachelor of Science in Computer Science
 - Design and Analysis of Algorithms
 
 ## Technical Skills
-- **Proficient**: VS Code, Python, C, C++, Bash, LaTeX, Google Firebase, Slack, Github
-- **Familiar**: Google Cloud Platform, Javascript, CSS, Excel, Node.js, HTML
+- **Proficient**: Python, C, C++, Bash, LaTeX, Google Firebase, Slack, Github, VS Code
+- **Familiar**: Javascript, CSS, Node.js, HTML, Google Cloud Platform, Excel
 
 ## Project Experience
 ### TasteBuds Recipe App – Thunkable, Firebase, GitHub	     				         	         
 *Spring 2024*
 
-As part of a 5-person team, I developed a full-stack recipe-sharing app, leveraging Agile methodologies to guide the development process. The front-end was built using Thunkable, providing a responsive and intuitive user interface. On the backend, I integrated Firebase Realtime Database to ensure real-time data storage and retrieval, and Firebase Authentication to facilitate secure user login. To manage project tasks and maintain sprint tracking, I used GitHub with Kanban boards. The Agile approach was reinforced by the use of HEART metrics to measure success and Crazy 8 brainstorming for innovative problem-solving. The app also utilized web APIs and cloud functions for server-side logic, data processing, and seamless integration of external services.
+- Developed a full-stack recipe-sharing app with a 5-person team 
+- Utilized Thunkable for front-end development, ensuring a responsive and intuitive UI
+- Integrated Firebase Realtime Database for real-time data storage and Firebase Authentication for user login 
+- Followed Agile procedures and used HEART metrics with Crazy 8 brainstorming to guide development
+- Managed project tasks using GitHub with Kanban boards for sprint tracking
+- Utilized web APIs and cloud functions for server-side logic, data processing, and integrating external services into the app
+
 
 ### Battleship – Javascript, Python
 *Spring 2022*
 
-Developed a Battleship game in Javascript on Khan Academy. The game consists of a start screen, end screen, attempt counter, and hit counter as a user attempts to find battleships on a 10 by 10 game board before the maximum number of tries is reached. Also reimplemented in Python with text-based output.
+- Developed a Battleship game in Javascript on Khan Academy
+- The game consists of a start screen, end screen, attempt counter, and hit counter as a user attempts to find battleships on a 10 by 10 game board before the maximum number of tries is reached
+- Reimplemented in Python with text-based output
+
 
 ### Snake – Python 
 *Summer 2021*
 
-Developed a Snake game in Python using PyGame and Random libraries. Investigated the application of genetic algorithms in Snake using open-source code on GitHub.
+- Developed Snake game in Python using PyGame and Random libraries
+- Investigated application of genetic algorithm used in Snake using open source code on GitHub
+
 
 ## Work Experience
 ### Bentley Dock, Milltown, NJ
