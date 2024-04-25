@@ -1,0 +1,8 @@
+site_name: My Portfolio
+nav:
+- Home: index.md
+- About Me: aboutMe.md
+- Portfolio: 
+  - Resume: resume.md
+  - Projects: projects.md
+theme: readthedocs
